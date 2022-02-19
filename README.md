@@ -8,9 +8,9 @@
 - 📫 How to reach me: One can reach out to me via - Linkedin or Twitter.
 - 😄 Pronouns: Nothing as Such till now :|
 
-
+<!-- 
 # Hi, I'm Rishabh Jain <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-# replace contents according to you.
+# replace contents according to you. -->
 <!-- <table>
 <tr>
   <td valign="center">
