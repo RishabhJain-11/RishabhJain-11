@@ -5,7 +5,7 @@
 - 🤝 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with DevOps and Understanding new technologies faster.
 - 💬 Ask me about front-end development and also a little about Data Structures and Algortihms.
-- 📫 How to reach me: One can reach out to me via - Linkedin or Twitter.
+- 📫 How to reach me: One can reach out to me via - Linkedin.
 
 <!-- 
 # Hi, I'm Rishabh Jain <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
