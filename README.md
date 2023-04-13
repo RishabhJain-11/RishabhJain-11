@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhjain-11&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhjain-11" /> </p>
 
-- 🌱 I’m currently learning **Next JS, Backend Development, Machine Learning and Web3.**
+- 🌱 I’m currently learning **Next JS, Backend Development.**
 
 - 📫 How to reach me **codebeing11@gmail.com**
 
