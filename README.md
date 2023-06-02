@@ -49,6 +49,6 @@ I'm currently working on Full Stack Development.<br>I would like to collaborate 
 ![](https://github-contributor-stats.vercel.app/api?username=RishabhJain-11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RishabhJain-11&icon=5&color=8)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=RishabhJain-11&icon=5&color=8)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
