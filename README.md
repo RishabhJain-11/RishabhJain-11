@@ -31,8 +31,11 @@ Eager for new challenges and continuous improvement, I thrive in dynamic environ
 🔍 Problem Solver: I enjoy tackling coding challenges on platforms like Leetcode, GFG, and HackerEarth.
 🚀 Hackathons Enthusiast: Regularly engage in Devfolio, Devpost, and HackerEarth events, enhancing skills and project experience.
 🌐 Open Source Contributor: Actively contribute on Github, fostering community interaction and learning from experts.
+🏆 Leveled up with 700+ triumphs & 15+ badges on LeetCode, conquered 400+ challenges on GFG, and attained coding prowess with 700+ triumphs & certifications on Coding Ninjas. 
+🚀 Unleashed 1500+ contributions to GitHub's open-source symphony, harmonizing innovation with collaboration. 🎉
 
 In a nutshell, I'm a problem-solving coder, a hackathon enthusiast, and a passionate open-source contributor.
+
 <!--- Connect with Me -->
 ## 📫 Connect with Me
 Let's connect and collaborate on exciting projects! Feel free to reach out:
