@@ -27,6 +27,12 @@ Eager for new challenges and continuous improvement, I thrive in dynamic environ
 - 🌟 [Anubhav](https://github.com/RishabhJain-11):🌍 Embark on a journey with Anubhav: Where wanderlust meets digital artistry! 📸 Crafted harmoniously with Reactjs, Material ui 🎨, Nodejs, and Expressjs 🚀, synchronized with MongoDB 📊. Unveil breathtaking travel sagas through captivating visuals and vivid descriptions. Engage with the community through comments 💬, traverse akin adventures in the similar posts section 🗺️, and navigate seamlessly with pagination 📄. Find your next odyssey effortlessly with the powerful search and filter feature 🔍. Join the exploration—login/register ✨—and share, relive, and connect on Anubhav!
 - 🌟 [Kirana Bazaar](https://github.com/RishabhJain-11): 🛍️ Step into Kirana Bazaar: Empowering local entrepreneurs to showcase and sell their treasures online! Crafted with Reactjs and nodejs synergy 🎨, fortified by expressjs and MongoDB 🚀. Seamlessly responsive design 📱 for shopping on-the-go. Unlock a world of convenience with secure stripe payments 💳, while the admin orchestrates an infinite array of products 📦. Embrace simplicity through login/register ✨, and embark on a vibrant shopping journey where communities thrive and dreams flourish!
 
+## 🚀 EXTRA CURRICULARS
+🔍 Problem Solver: I enjoy tackling coding challenges on platforms like Leetcode, GFG, and HackerEarth.
+🚀 Hackathons Enthusiast: Regularly engage in Devfolio, Devpost, and HackerEarth events, enhancing skills and project experience.
+🌐 Open Source Contributor: Actively contribute on Github, fostering community interaction and learning from experts.
+
+In a nutshell, I'm a problem-solving coder, a hackathon enthusiast, and a passionate open-source contributor.
 <!--- Connect with Me -->
 ## 📫 Connect with Me
 Let's connect and collaborate on exciting projects! Feel free to reach out:
