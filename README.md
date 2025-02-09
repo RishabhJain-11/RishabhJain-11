@@ -1,7 +1,7 @@
 <!--- Header -->
 # Hi there, I'm Rishabh Jain 👋
 
-<!--- Introduction -->
+<!--- Introduction 
 🚀 As a 4th Year IT Undergrad at DYPCOE, Pune, my journey has been driven by a passion for technology and a thirst for knowledge. With a focus on Full-Stack Web Development, I've honed my skills in ReactJS, Next.js, MongoDB, Node.js, and Express.js, crafting meaningful projects that showcase my abilities. 💻🌐
 
 From mastering Computer Science fundamentals like Database Management and Python Programming to acquiring practical professional skills in teamwork, networking, and time-management, I embrace every opportunity for growth. 📚🤝⏱️
@@ -9,7 +9,7 @@ From mastering Computer Science fundamentals like Database Management and Python
 Currently, my sights are set on delving into Machine Learning and DevOps, solidifying my understanding of the Web Development process and leveraging AI to drive innovative solutions. 🤖🔍
 
 Eager for new challenges and continuous improvement, I thrive in dynamic environments and embrace innovation. I'm on a mission to craft elegant digital experiences through code. With a passion for innovative solutions and an eye for detail, I strive to create meaningful and impactful projects.
-
+-->
 <!--- Tech Stack 
 ## 💻 Tech Stack
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
@@ -27,6 +27,7 @@ Eager for new challenges and continuous improvement, I thrive in dynamic environ
 - 🌟 [Anubhav](https://github.com/RishabhJain-11/Anubhav):🌍 Embark on a journey with Anubhav: Where wanderlust meets digital artistry! 📸 Crafted harmoniously with Reactjs, Material ui 🎨, Nodejs, and Expressjs 🚀, synchronized with MongoDB 📊. Unveil breathtaking travel sagas through captivating visuals and vivid descriptions. Engage with the community through comments 💬, traverse akin adventures in the similar posts section 🗺️, and navigate seamlessly with pagination 📄. Find your next odyssey effortlessly with the powerful search and filter feature 🔍. Join the exploration—login/register ✨—and share, relive, and connect on Anubhav!
 - 🌟 [Kirana Bazaar](https://github.com/RishabhJain-11/ECommerce): 🛍️ Step into Kirana Bazaar: Empowering local entrepreneurs to showcase and sell their treasures online! Crafted with Reactjs and nodejs synergy 🎨, fortified by expressjs and MongoDB 🚀. Seamlessly responsive design 📱 for shopping on-the-go. Unlock a world of convenience with secure stripe payments 💳, while the admin orchestrates an infinite array of products 📦. Embrace simplicity through login/register ✨, and embark on a vibrant shopping journey where communities thrive and dreams flourish!
 
+<!---  
 ## 🚀 EXTRA CURRICULARS
 - 🔍 Problem Solver: I enjoy tackling coding challenges on platforms like Leetcode, GFG, and HackerEarth.
 - 🚀 Hackathons Enthusiast: Regularly engage in Devfolio, Devpost, and HackerEarth events, enhancing skills and project experience.
@@ -35,18 +36,19 @@ Eager for new challenges and continuous improvement, I thrive in dynamic environ
 - 🚀 Unleashed 1500+ contributions to GitHub's open-source symphony, harmonizing innovation with collaboration. 🎉
 
 In a nutshell, I'm a problem-solving coder, a hackathon enthusiast, and a passionate open-source contributor.
-
+-->
 <!--- Connect with Me -->
 ## 📫 Connect with Me
 Let's connect and collaborate on exciting projects! Feel free to reach out:
 - 📧 Email: im.rishabhmjain@gmail.com
-- 💬 LinkedIn: [Rishabh Jain](https://linkedin.com/in/rishabhjaincodes)
+- 💬 LinkedIn: [Rishabh Jain](https://www.linkedin.com/in/rishabh-jain-079390200/)
 - 💬 Leetcode: [Link](https://leetcode.com/jainrishabh71011/)
+<!--- 
 - 💬 GeeksforGeeks: [Link](https://auth.geeksforgeeks.org/user/jainrishabh71011/practice)
 - 💬 CodingNinjas: [Link](https://www.codingninjas.com/studio/profile/jainRishabh)
 - 💬 Quine: [Link](https://quine.sh/?to=/user/RishabhJain)
 - 💬 Devfolio: [Link](https://devfolio.co/@TheRishabhJain)
-
+-->
 <!--- GitHub Stats 
 ## 📊 GitHub Stats
 [![RishabhJain's GitHub | Stats](https://stats.quine.sh/RishabhJain/github?theme=light)](https://quine.sh)
